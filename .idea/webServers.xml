@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7763f398-e30b-4a3c-baae-d7076dc6c9f8" name="eso">
+        <fileTransfer rootFolder="/home/pram08" accessType="SFTP" host="eso.vse.cz" port="22" sshConfigId="81d425cb-1c97-4580-900b-e7573e403184" sshConfig="pram08@eso.vse.cz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
